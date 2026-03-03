@@ -116,8 +116,8 @@ body{
 
 .hero h1{
   font-family: "AwesomeLathusca", serif;
-  font-weight: 400;
-  font-size: clamp(2.6rem, 7vw, 5rem);
+  font-weight: 500;
+  font-size: clamp(5.9rem, 7vw, 5rem);
   line-height: 1.05;
 }
 
